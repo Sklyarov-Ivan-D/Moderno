@@ -9,7 +9,6 @@ $(function() {
         arrows: false,
         slidesToShow: 4,
         slidesToScroll: 4
-
     })
     var mixer = mixitup('.product__inner-box');
 });
